@@ -47,10 +47,4 @@ The research focused on identifying, profiling, and mapping the behavior of a hi
 
 - 🔍 How to View
 
-Navigate to `/report/Threat_Intelligence_Report.pdf` to see the complete investigation and conclusions.
-
-- 
-- 
--
-- 
-- 
+Full report is not publicly available due to confidentiality concerns. A redacted version or summary is available upon request.
